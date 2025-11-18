@@ -3,7 +3,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+### 👨🏻‍💻 &nbsp;About Me
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -11,10 +11,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+I am a Back‑end Developer and Data Analyst in training, passionate about building robust systems and extracting value from data. I am a Systems Analysis student and have completed freelance projects that allowed me to apply back-end technologies, databases, and data processing in real-world environments. I am currently continuing my self-directed training and showcasing my work in this repository and on my personal website [link](www.linkedin.com/in/thiago-lopez11). I am available for internships or new job opportunities; my resume is attached.
+
 
 <br>
