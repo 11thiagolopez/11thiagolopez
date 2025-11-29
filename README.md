@@ -7,11 +7,11 @@
 
 ## 🔎 Sobre mí
 
-- 🔭 Actualmente trabajo en **desarrollo Full Stack con enfoque en sistemas empresariales**
-- 🌱 Aprendiendo **arquitecturas escalables, diseño de software y buenas prácticas**
+- 🔭 Actualmente trabajo en **desarrollo Full Stack con enfoque en sistemas empresariales**.
+- 🌱 Aprendiendo **arquitecturas escalables, diseño de software y buenas prácticas**.
 - 💻 Stack principal: **Java, Python, SQL**
 - 📫 Contacto: **thiagonahuell123@gmail.com**
-- 👷‍♂️ Estudiante de **Analista en Sistemas**
+- 👷‍♂️ Estudiante de **Analista en Sistemas**.
 
 ---
 
@@ -33,11 +33,11 @@
 
 ## 📌 Repos Destacados
 
-- 🔐 **Sistema de Gestión Gastronómica** — Módulos de sueldos, adelantos y pagos  
-  ⭐ *Aplicación para digitalizar procesos manuales*
+- 🔐 **Sistema de Gestión Gastronómica** — Módulos de sueldos, adelantos y pagos.  
+  ⭐ *Aplicación para digitalizar procesos manuales.*
 
-- 🔐 **Sistema Integral de Gestión Financiera** — Administración de ingresos, egresos, caja y auditoría en tiempo real  
-  ⭐ *Aplicación desarrollada a medida para optimizar el flujo de efectivo de Distribuidora D13 .*
+- 🔐 **Sistema Integral de Gestión Financiera** — Administración de ingresos, egresos, caja y auditoría en tiempo real.  
+  ⭐ *Aplicación desarrollada a medida para optimizar el flujo de efectivo de Distribuidora D13.*
 
 ---
 
