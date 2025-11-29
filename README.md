@@ -1,63 +1,19 @@
-<!-- Horizontal divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Horizontal divider --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Título -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Thiago Lopez</h1></summary>
-  </ul>
-</div>
+# 👋 Hola, soy **Thiago Lopez**  
+### 💼 Software Developer | Sistemas y Soluciones Tecnológicas para Empresas
 
-<!-- Subtítulo -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Software Developer</h2></summary>
-  </ul>
-</div>
 
-<!-- Introducción -->
-<p>
-🔭 Actualmente trabajo en <strong>Desarrollo de sistemas y aplicaciones para empresas</strong> (Full Stack)<br>
-🌱 Aprendiendo arquitecturas escalables y buenas prácticas de software<br>
-💻 Stack principal: <strong>Java, Python, SQL, React y MySQL</strong><br>
-📫 Contacto: <a href="mailto:thiagonahuell123@gmail.com">thiagonahuell123@gmail.com</a><br>
-</p>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <h2>GitHub Statistics</h2>
-</div>
+## 🔎 Sobre mí
 
-<table align="center" width="100%">
-<tr border="none">
+- 🔭 Actualmente trabajo en **desarrollo Full Stack con enfoque en sistemas empresariales**
+- 🌱 Aprendiendo **arquitecturas escalables, diseño de software y buenas prácticas**
+- 💻 Stack principal: **Java, Python, SQL**
+- 📫 Contacto: **thiagonahuell123@gmail.com**
+- 🌎 Idiomas: Inglés básico, Portugués básico
 
-<td width="33%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=11thiagolopez&theme=dark&show_icons=true&count_private=true&hide_border=true" 
-       alt="GitHub Stats" />
-</td>
-
-<td width="33%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=11thiagolopez&theme=dark&hide_border=true" 
-       alt="GitHub Streak" />
-</td>
-
-<td width="33%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11thiagolopez&theme=dark&langs_count=8&hide_border=true&layout=compact" 
-       alt="Most Used Languages" />
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- Widget profesional de Stars y actividad general -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=11thiagolopez&theme=dark&show_icons=true&include_all_commits=false&custom_title=Stars%20%26%20Activity&hide=issues&hide_border=true" 
-       alt="Stars & Activity" />
-</div>
-
-<br>
+---
 
 <!-- Tecnologías -->
 <div id="user-content-toc">
@@ -68,14 +24,22 @@
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,python,mysql,git,github,vscode&perline=14" 
+    <img src="https://skillicons.dev/icons?i=java,react,html,css,figma,python,mssql,git,github,vscode&perline=14" 
          alt="Tech Icons" />
   </a>
-</p>
+  
+---
 
-<br>
 
+## 📌 Repos Destacados
 
+- 🔐 **Sistema de Gestión Gastronómica** — Módulos de sueldos, adelantos y pagos  
+  ⭐ *Aplicación para digitalizar procesos manuales*
+
+- 🔐 **Sistema Integral de Gestión Financiera** — Administración de ingresos, egresos, caja y auditoría en tiempo real  
+  ⭐ *Aplicación desarrollada a medida para optimizar el flujo de efectivo de Distribuidora D13 .*
+
+---
 
 <!-- Conecta conmigo -->
 <div id="user-content-toc">
@@ -85,16 +49,16 @@
 </div>
 
 <p align="center">
-  <a href="in/thiago-lopez11" target="_blank">
-    <img src="234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
+  <a href="11thiagolopez" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
          alt="LinkedIn" height="50" width="50"/>
   </a>
-
+  
   <a href="_23thiago/" target="_blank">
-    <img src="234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png"
+    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png"
          alt="Instagram" height="50" width="50"/>
   </a>
-
+  
   <a href="mailto:thiagonahuell123@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png"
          alt="Gmail" height="50" width="50"/>
@@ -108,3 +72,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
        width="100%" alt="Divider"/>
 </div>
+`Clean Code` • `Trabajo en equipo` • `Soluciones escalables` • `Diseño de sistemas` • `Bases de Datos`
+
+---
