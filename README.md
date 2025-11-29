@@ -11,7 +11,7 @@
 - 🌱 Aprendiendo **arquitecturas escalables, diseño de software y buenas prácticas**
 - 💻 Stack principal: **Java, Python, SQL**
 - 📫 Contacto: **thiagonahuell123@gmail.com**
-- 🌎 Idiomas: Inglés básico, Portugués básico
+- 👷‍♂️ Estudiante de **Analista en Sistemas**
 
 ---
 
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,react,html,css,figma,python,mssql,git,github,vscode&perline=14" 
+    <img src="https://skillicons.dev/icons?i=java,html,figma,python,mysql,git,github,vscode,eclipse&perline=14" 
          alt="Tech Icons" />
   </a>
   
