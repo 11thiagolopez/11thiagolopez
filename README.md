@@ -7,7 +7,6 @@
 
 ## 🔎 Sobre mí
 
-- 🔭 Actualmente trabajo en **desarrollo Full Stack con enfoque en sistemas empresariales**.
 - 🌱 Aprendiendo **arquitecturas escalables, diseño de software y buenas prácticas**.
 - 💻 Stack principal: **Java, Python, SQL**
 - 📫 Contacto: **thiagonahuell123@gmail.com**
